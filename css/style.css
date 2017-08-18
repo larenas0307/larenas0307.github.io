@@ -3,6 +3,10 @@
   margin-top: 20px;
 }
 
+.jumbotron {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
 .social {
   position: relative;
   text-align: center;
